@@ -13,4 +13,4 @@ npm install mongoose
 
 Heroku: [https://secret-gorge-06394.herokuapp.com/](https://secret-gorge-06394.herokuapp.com/)
 
-Github Repository: [https://github.com/azun510/budgetTracker](https://github.com/azun510/budgetTracker)
+Github Repository: [https://github.com/WorldKaizen/budgetTracker](https://github.com/WorldKaizen/budgetTracker)
